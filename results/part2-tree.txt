@@ -1,0 +1,54 @@
+lab0:
+total 8
+68459 drwxr-xr-x 7 vscode vscode 4096 Sep 23 19:13 claude_monet
+68790 lrwxrwxrwx 1 vscode vscode   38 Sep 23 19:14 inspection_link -> claude_monet/sanitation/inspection_act
+68478 -rw-r----- 1 vscode vscode  216 Sep 23 19:13 inspector_arrival
+
+lab0/claude_monet:
+total 20
+68464 drwxr-x--- 2 vscode vscode 4096 Sep 23 19:13 cleaning
+68466 drwxr-xr-x 2 vscode vscode 4096 Sep 23 19:14 hall
+68460 drwxr-x--- 4 vscode vscode 4096 Sep 23 19:14 kitchen
+68467 drwxr-x--- 2 vscode vscode 4096 Sep 23 19:14 office
+68463 drwxr-x--- 3 vscode vscode 4096 Sep 23 19:14 sanitation
+
+lab0/claude_monet/cleaning:
+total 4
+68475 -rw-r--r-- 1 vscode vscode 204 Sep 23 19:13 cleaning_schedule
+
+lab0/claude_monet/hall:
+total 0
+
+lab0/claude_monet/kitchen:
+total 12
+68462 drwxr-x--- 2 vscode vscode 4096 Sep 23 19:13 cold_room
+68461 drwxr-x--- 2 vscode vscode 4096 Sep 23 19:13 hot_station
+68791 lrwxrwxrwx 1 vscode vscode   13 Sep 23 19:14 sanitation_access -> ../sanitation
+68792 -rw-r--r-- 1 vscode vscode  352 Sep 23 19:14 stations_report
+
+lab0/claude_monet/kitchen/cold_room:
+total 8
+68471 -rw-r----- 1 vscode vscode 176 Sep 23 19:13 fish_check
+68470 -rw-r--r-- 1 vscode vscode 186 Sep 23 19:13 fridge_temperature
+
+lab0/claude_monet/kitchen/hot_station:
+total 8
+68468 -rw-r----- 1 vscode vscode 176 Sep 23 19:13 hot_report
+68469 -rw-r----- 1 vscode vscode 154 Sep 23 19:13 senya_check
+
+lab0/claude_monet/office:
+total 12
+68456 -rw-r----- 1 vscode vscode 216 Sep 23 19:14 arrival_copy
+68476 -rw-r--r-- 1 vscode vscode 190 Sep 23 19:13 guest_zone_note
+68477 -rw-r----- 1 vscode vscode 393 Sep 23 19:14 vika_response
+
+lab0/claude_monet/sanitation:
+total 16
+68473 -rw-r----- 2 vscode vscode  207 Sep 23 19:13 act_duplicate
+68788 drwxr-x--- 2 vscode vscode 4096 Sep 23 19:14 cleaning_backup
+68473 -rw-r----- 2 vscode vscode  207 Sep 23 19:13 inspection_act
+68474 -rw-r----- 1 vscode vscode  217 Sep 23 19:13 violations
+
+lab0/claude_monet/sanitation/cleaning_backup:
+total 4
+68789 -rw-r--r-- 1 vscode vscode 204 Sep 23 19:14 cleaning_schedule
