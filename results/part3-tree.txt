@@ -1,0 +1,39 @@
+lab0:
+total 8
+drwxr-xr-x 6 vscode vscode 4096 Sep 23 19:14 claude_monet
+-rw-r----- 1 vscode vscode  216 Sep 23 19:13 inspector_arrival
+
+lab0/claude_monet:
+total 16
+drwxr-x--- 2 vscode vscode 4096 Sep 23 19:13 cleaning
+drwxr-x--- 4 vscode vscode 4096 Sep 23 19:14 kitchen
+drwxr-x--- 2 vscode vscode 4096 Sep 23 19:14 office
+drwxr-x--- 2 vscode vscode 4096 Sep 23 19:14 sanitation
+
+lab0/claude_monet/cleaning:
+total 4
+-rw-r--r-- 1 vscode vscode 204 Sep 23 19:13 cleaning_schedule
+
+lab0/claude_monet/kitchen:
+total 12
+drwxr-x--- 2 vscode vscode 4096 Sep 23 19:13 cold_room
+drwxr-x--- 2 vscode vscode 4096 Sep 23 19:13 hot_station
+-rw-r--r-- 1 vscode vscode  352 Sep 23 19:14 stations_report
+
+lab0/claude_monet/kitchen/cold_room:
+total 8
+-rw-r----- 1 vscode vscode 176 Sep 23 19:13 fish_check
+-rw-r--r-- 1 vscode vscode 186 Sep 23 19:13 fridge_temperature
+
+lab0/claude_monet/kitchen/hot_station:
+total 8
+-rw-r----- 1 vscode vscode 176 Sep 23 19:13 hot_report
+-rw-r----- 1 vscode vscode 154 Sep 23 19:13 senya_check
+
+lab0/claude_monet/office:
+total 4
+-rw-r----- 1 vscode vscode 393 Sep 23 19:14 vika_response
+
+lab0/claude_monet/sanitation:
+total 4
+-rw-r----- 1 vscode vscode 207 Sep 23 19:13 inspection_act
